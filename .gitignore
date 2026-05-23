@@ -1,0 +1,16 @@
+# 1. Ignore your virtual environment and IDE settings (Crucial!)
+.venv/
+.idea/
+
+# 2. Explicitly ignore the specific folders you aren't ready to share yet
+2.1 Heading Element/
+Day 29(password manager)/
+day_24/
+day25/
+Day27(Tkinter)/
+Day28(pomodoro app)/
+Day33(API)/
+Day34(API Quizz project)/
+psname game/
+PythonProject/
+quiz-game-start/
